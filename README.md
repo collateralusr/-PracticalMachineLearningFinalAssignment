@@ -1,4 +1,4 @@
-# Practical-Machine-Learning-Project
+#  Practical-Machine-Learning-Project
 
 This is the course project for the Practical Machine Learning Course on Coursera. Data used in this project is from the Human Activity Recognition project from Groupware@LES.
 
